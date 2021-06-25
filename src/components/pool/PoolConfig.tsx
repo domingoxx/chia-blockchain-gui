@@ -87,7 +87,7 @@ export default function PoolConfig() {
             variant="filled"
           />
           <StyledTextField
-            label={<Trans>pool_key</Trans>}
+            label={<Trans>矿池ID</Trans>}
             name="pool_key"
             variant="filled"
           />
