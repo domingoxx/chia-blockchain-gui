@@ -116,7 +116,7 @@ msgstr "Määrä ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "Alkumäärä<<<<<<< Updated upstream"
+msgstr "Alkumäärä"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -284,7 +284,7 @@ msgstr "Anna Plot-tiedostojen Määrä"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "Anna Tiedoston Koko<<<<<<< Updated upstream======="
+msgstr "Anna Tiedoston Koko"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
@@ -410,7 +410,7 @@ msgstr "Luo Digitaalisen Identiteetin lompakko"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "Luo Tarjous<<<<<<< Updated upstream"
+msgstr "Luo Tarjous"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "Päiväys"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "Viive<<<<<<< Updated upstream"
+msgstr "Viive"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "Viive<<<<<<< Updated upstream"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "Poista<<<<<<< Updated upstream"
+msgstr "Poista"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,7 +632,7 @@ msgstr "Jätä pois lopullinen hakemisto"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "Ei voi avata (epäkelpo plotti)<<<<<<< Updated upstream"
+msgstr "Ei voi avata (epäkelpo plotti)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
@@ -646,11 +646,11 @@ msgstr "Farmarin Julkinen Avain"
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "Farmarin Osoitetiiviste<<<<<<< Updated upstream"
+msgstr "Farmarin Osoitetiiviste"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
-msgstr "Farmaripalkkio-osoite>>>>>>> Stashed changes"
+msgstr "Farmaripalkkio-osoite"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:131
 msgid "Farmer Reward Address is not properly formatted."
@@ -662,7 +662,7 @@ msgstr "Farmarin palkkio-osoitteen formaatti on väärä."
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr "Farmarin Palkkio-osoite on pakollinen.======="
+msgstr "Farmarin Palkkio-osoite on pakollinen."
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "Farmeri ei ole yhteydessä"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "Farmari ei ole käynnissä<<<<<<< Updated upstream"
+msgstr "Farmari ei ole käynnissä"
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr "Farmarin julkinen avain:=======>>>>>>> Stashed changes"
+msgstr "Farmarin julkinen avain:"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,7 +753,7 @@ msgstr "Seuraa Twitterissä"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "Usein Kysytyt Kysymykset<<<<<<< Updated upstream"
+msgstr "Usein Kysytyt Kysymykset"
 
 #: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
@@ -874,7 +874,7 @@ msgstr "Aikaväli"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "K-Arvo<<<<<<< Updated upstream"
+msgstr "K-Arvo"
 
 #: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
@@ -951,7 +951,7 @@ msgstr "Kirjaudutaan"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "Hallitse Farmaripalkkioita<<<<<<< Updated upstream"
+msgstr "Hallitse Farmaripalkkioita"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "Ei vielä farmilohkoja"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "Ei aiempia transaktioita<<<<<<< Updated upstream"
+msgstr "Ei aiempia transaktioita"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,7 +1231,7 @@ msgstr "Rinnakkaisplottaa"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "Plotti on {0}:n duplikaatti<<<<<<< Updated upstream"
+msgstr "Plotti on {0}:n duplikaatti"
 
 #: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
@@ -1259,12 +1259,12 @@ msgstr "Bitfield-plottaaminen kirjoittaa 30% vähemmän levylle ja on lähes ain
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr "<<<<<<< Updated upstream======="
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/pool/PoolConfig.tsx:72
 msgid "Pool"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1277,7 +1277,7 @@ msgstr "Poolin Julkinen Avain"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "Poolin Osoitetiiviste<<<<<<< Updated upstream"
+msgstr "Poolin Osoitetiiviste"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1297,11 +1297,11 @@ msgstr "Poolin Palkkio-osoite on pakollinen."
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "Poolin Palkkiosumma<<<<<<< Updated upstream"
+msgstr "Poolin Palkkiosumma"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr "Poolin julkinen avain:=======>>>>>>> Stashed changes"
+msgstr "Poolin julkinen avain:"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1443,7 +1443,7 @@ msgstr "Palauta väritettyjen kolikkojen metatiedot ja muut älylompakot varmuus
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "Turvalista Ohittaa<<<<<<< Updated upstream"
+msgstr "Turvalista Ohittaa"
 
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
@@ -1495,15 +1495,15 @@ msgstr "Valitse Lompakkotyyppi"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "Valitse lopullinen kohdehakemisto plot-tiedostolle. Suosittelemme isoa massamuistia (esim. ulkoinen kovalevy).<<<<<<< Updated upstream"
+msgstr "Valitse lopullinen kohdehakemisto plot-tiedostolle. Suosittelemme isoa massamuistia (esim. ulkoinen kovalevy)."
 
-#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
-#~ msgstr "Valitse väliaikainen työhakemisto plot-tiedostolle. Suosittelemme nopeaa SSD-levyä.>>>>>>> Stashed changes"
+#~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "Valitse väliaikainen työhakemisto plot-tiedostolle. Suosittelemme nopeaa levyä.======="
+msgstr "Valitse väliaikainen työhakemisto plot-tiedostolle. Suosittelemme nopeaa levyä."
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1906,7 +1906,7 @@ msgstr "VDF -alaiteraatioita"
 
 #: src/electron/main.tsx:296
 msgid "View"
-msgstr "Näkymä<<<<<<< Updated upstream"
+msgstr "Näkymä"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:73
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:52
@@ -1967,7 +1967,7 @@ msgstr "Odota synkroinointia"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr "<<<<<<< Updated upstream"
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
@@ -2066,11 +2066,7 @@ msgstr "[Virhe 13] Lupa evätty. Yrität käyttää tiedostoa / hakemistoa ilman
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[Virhe 22] Tiedostoa ei löydy. Todennäköisesti yhdessä config.yaml-tiedostosi juontikansioista on ongelma.<<<<<<< Updated upstream======="
-
-#: src/components/pool/PoolConfig.tsx:82
-#~ msgid "api_key"
-#~ msgstr ">>>>>>> Stashed changes"
+msgstr "[Virhe 22] Tiedostoa ei löydy. Todennäköisesti yhdessä config.yaml-tiedostosi juontikansioista on ongelma."
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2084,11 +2080,11 @@ msgstr "korkeus:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "ei synkronoitu<<<<<<< Updated upstream======="
+msgstr "ei synkronoitu"
 
 #: src/components/pool/PoolConfig.tsx:90
 msgid "pool_key"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2123,7 +2119,7 @@ msgstr "{currencyCode} Chioja Farmaroitu"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} Transaktioveloitukset Käyttäjälle<<<<<<< Updated upstream======="
+msgstr "{currencyCode} Transaktioveloitukset Käyttäjälle"
 
 #: src/components/pool/PoolConfig.tsx:96
 msgid "保存并启用"
@@ -2136,15 +2132,3 @@ msgstr ""
 #: src/components/pool/PoolConfig.tsx:85
 msgid "矿机名称"
 msgstr ""
-
-#: src/components/dashboard/DashboardSideBar.tsx:61
-#~ msgid "矿池"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:29
-#~ msgid "矿池名称"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:100
-#~ msgid "重新加载"
-#~ msgstr ">>>>>>> Stashed changes"

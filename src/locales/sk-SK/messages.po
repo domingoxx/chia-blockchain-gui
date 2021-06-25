@@ -116,7 +116,7 @@ msgstr "Suma ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "Počiatočná suma<<<<<<< Updated upstream"
+msgstr "Počiatočná suma"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -284,7 +284,7 @@ msgstr "Vyberte počet polí"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "Vyberte veľkosť poľa<<<<<<< Updated upstream======="
+msgstr "Vyberte veľkosť poľa"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
@@ -410,7 +410,7 @@ msgstr "Vytvoriť DID peňaženku"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "Vytvoriť ponuku<<<<<<< Updated upstream"
+msgstr "Vytvoriť ponuku"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "Dátum"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "Oneskorenie<<<<<<< Updated upstream"
+msgstr "Oneskorenie"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "Oneskorenie<<<<<<< Updated upstream"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "Zmazať<<<<<<< Updated upstream"
+msgstr "Zmazať"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,7 +632,7 @@ msgstr "Vylúčiť cieľový adresár"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "Nepodarilo sa otvoriť (neplatné polia)<<<<<<< Updated upstream"
+msgstr "Nepodarilo sa otvoriť (neplatné polia)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
@@ -646,7 +646,7 @@ msgstr "Verejný kľúč farmára"
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "Hash hádaniek pre farmára<<<<<<< Updated upstream"
+msgstr "Hash hádaniek pre farmára"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
@@ -658,11 +658,11 @@ msgstr "Adresa odmeny farmára nemá správny formát."
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:133
 #~ msgid "Farmer Reward Address is not properly formatted. Using 'paste' is recommended."
-#~ msgstr "Farmer Reward Address is not properly formatted. Using 'paste' is recommended.<<<<<<< Updated upstream"
+#~ msgstr "Farmer Reward Address is not properly formatted. Using 'paste' is recommended."
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr "Adresa odmeny farmára nesmie byť prázdna.=======>>>>>>> Stashed changes"
+msgstr "Adresa odmeny farmára nesmie byť prázdna."
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "Farmár nie je pripojený"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "Nebeží farmer<<<<<<< Updated upstream"
+msgstr "Nebeží farmer"
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr "Verejný kľúč farmára:=======>>>>>>> Stashed changes"
+msgstr "Verejný kľúč farmára:"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,7 +753,7 @@ msgstr "Sledovať na Twitteri"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "Často kladené otázky (FAQ)<<<<<<< Updated upstream"
+msgstr "Často kladené otázky (FAQ)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
@@ -874,7 +874,7 @@ msgstr "Interval"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "K-veľkosť<<<<<<< Updated upstream"
+msgstr "K-veľkosť"
 
 #: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
@@ -951,7 +951,7 @@ msgstr "Prihlasovanie"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "Spravovať farmárske odmeny<<<<<<< Updated upstream"
+msgstr "Spravovať farmárske odmeny"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "Zatiaľ neboli vyťažené žiadne bloky"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "Žiadne predchádzajúce transakcie<<<<<<< Updated upstream"
+msgstr "Žiadne predchádzajúce transakcie"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,7 +1231,7 @@ msgstr "Paralelné vytváranie polí"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "Pole je duplikátom {0}<<<<<<< Updated upstream"
+msgstr "Pole je duplikátom {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
@@ -1259,12 +1259,12 @@ msgstr "Vykresľovanie s bitovým poľom umožňuje okolo 30% menej zápisov a j
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr "<<<<<<< Updated upstream======="
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/pool/PoolConfig.tsx:72
 msgid "Pool"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1277,7 +1277,7 @@ msgstr "Verejný kľúč združenia"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "Hádankový klúč združenia<<<<<<< Updated upstream"
+msgstr "Hádankový klúč združenia"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1297,11 +1297,11 @@ msgstr "Adresa odmeny združenia nesmie byť prázdna."
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "Čiastka odmeny združenia<<<<<<< Updated upstream"
+msgstr "Čiastka odmeny združenia"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr "Verejný kľúč združenia:=======>>>>>>> Stashed changes"
+msgstr "Verejný kľúč združenia:"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1443,7 +1443,7 @@ msgstr "Obnoviť metadáta pre Farebné Mince a iné Smart peňaženky zo záloh
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "Bezpečné preskočiť<<<<<<< Updated upstream"
+msgstr "Bezpečné preskočiť"
 
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
@@ -1495,15 +1495,15 @@ msgstr "Vyberte typ peňaženky"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "Vyberte cieľový adresár, do ktorého chcete uložiť pole. Odporúčame vám používať veľký pomalý pevný disk (napríklad externý pevný disk).<<<<<<< Updated upstream"
+msgstr "Vyberte cieľový adresár, do ktorého chcete uložiť pole. Odporúčame vám používať veľký pomalý pevný disk (napríklad externý pevný disk)."
 
-#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
-#~ msgstr "Vyberte dočasný adresár, do ktorého chcete uložiť pole. Odporúčame vám použiť rýchly SSD disk.>>>>>>> Stashed changes"
+#~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "Vyberte dočasný adresár, do ktorého chcete uložiť pole. Odporúčame vám použiť rýchle úložisko dát.======="
+msgstr "Vyberte dočasný adresár, do ktorého chcete uložiť pole. Odporúčame vám použiť rýchle úložisko dát."
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1906,7 +1906,7 @@ msgstr "VDF dielčie iterácie slotu"
 
 #: src/electron/main.tsx:296
 msgid "View"
-msgstr "Zobrazenie<<<<<<< Updated upstream"
+msgstr "Zobrazenie"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:73
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:52
@@ -1967,7 +1967,7 @@ msgstr "Čakanie na synchronizáciu"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr "<<<<<<< Updated upstream"
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
@@ -2066,11 +2066,7 @@ msgstr "[Chyba 13] Povolenie bolo zamietnuté. Pokúšate sa získať prístup k
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[Chyba 22] Súbor sa nenašiel. S najväčšou pravdepodobnosťou má problém jeden z priečinkov polí vo vašom súbore config.yaml.<<<<<<< Updated upstream======="
-
-#: src/components/pool/PoolConfig.tsx:82
-#~ msgid "api_key"
-#~ msgstr ">>>>>>> Stashed changes"
+msgstr "[Chyba 22] Súbor sa nenašiel. S najväčšou pravdepodobnosťou má problém jeden z priečinkov polí vo vašom súbore config.yaml."
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2084,11 +2080,11 @@ msgstr "pozícia:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "nesynchronizované<<<<<<< Updated upstream======="
+msgstr "nesynchronizované"
 
 #: src/components/pool/PoolConfig.tsx:90
 msgid "pool_key"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2123,7 +2119,7 @@ msgstr "{currencyCode} Celkové množstvo vyfarmárčenej Chii"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} Užívateľské poplatky za transakcie<<<<<<< Updated upstream======="
+msgstr "{currencyCode} Užívateľské poplatky za transakcie"
 
 #: src/components/pool/PoolConfig.tsx:96
 msgid "保存并启用"
@@ -2136,15 +2132,3 @@ msgstr ""
 #: src/components/pool/PoolConfig.tsx:85
 msgid "矿机名称"
 msgstr ""
-
-#: src/components/dashboard/DashboardSideBar.tsx:61
-#~ msgid "矿池"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:29
-#~ msgid "矿池名称"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:100
-#~ msgid "重新加载"
-#~ msgstr ">>>>>>> Stashed changes"

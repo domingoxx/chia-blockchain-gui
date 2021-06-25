@@ -116,7 +116,7 @@ msgstr "금액 ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "초기 코인의 양<<<<<<< Updated upstream"
+msgstr "초기 코인의 양"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -284,7 +284,7 @@ msgstr "몇 개의 플롯을 만들까요?"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "플롯 사이즈를 선택해 주십시오.<<<<<<< Updated upstream======="
+msgstr "플롯 사이즈를 선택해 주십시오."
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
@@ -410,7 +410,7 @@ msgstr "DID 지갑 만들기"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "제안 만들기<<<<<<< Updated upstream"
+msgstr "제안 만들기"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "날짜"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "지연<<<<<<< Updated upstream"
+msgstr "지연"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "지연<<<<<<< Updated upstream"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "삭제<<<<<<< Updated upstream"
+msgstr "삭제"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,7 +632,7 @@ msgstr "최종 경로 없이 플롯 만들기"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "플롯 열기에 실패했습니다. (사유: 유효하지 않은 플롯)<<<<<<< Updated upstream"
+msgstr "플롯 열기에 실패했습니다. (사유: 유효하지 않은 플롯)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
@@ -646,11 +646,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "수확기 퍼즐 해시<<<<<<< Updated upstream"
+msgstr "수확기 퍼즐 해시"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
-msgstr "파밍 보상을 수령할 주소>>>>>>> Stashed changes"
+msgstr "파밍 보상을 수령할 주소"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:131
 msgid "Farmer Reward Address is not properly formatted."
@@ -662,7 +662,7 @@ msgstr ""
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr "======="
+msgstr ""
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "파머가 연결되어 있지 않습니다"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "파머가 작동하지 않고 있습니다.<<<<<<< Updated upstream"
+msgstr "파머가 작동하지 않고 있습니다."
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr "=======>>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,7 +753,7 @@ msgstr "트위터 팔로우하기"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "자주 묻는 질문<<<<<<< Updated upstream"
+msgstr "자주 묻는 질문"
 
 #: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
@@ -874,7 +874,7 @@ msgstr "간격"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "K-크기<<<<<<< Updated upstream"
+msgstr "K-크기"
 
 #: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
@@ -951,7 +951,7 @@ msgstr "로그인 중"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "채굴 보상 관리<<<<<<< Updated upstream"
+msgstr "채굴 보상 관리"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "아직 수확한 블록이 없습니다"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "거래 내역이 없습니다<<<<<<< Updated upstream"
+msgstr "거래 내역이 없습니다"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,7 +1231,7 @@ msgstr "병렬 플로팅"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "{0} 의 복제된 구성<<<<<<< Updated upstream"
+msgstr "{0} 의 복제된 구성"
 
 #: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
@@ -1259,12 +1259,12 @@ msgstr "비트 필드를 활성화 한 상태로 플로팅하면 전체 쓰기�
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr "<<<<<<< Updated upstream======="
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/pool/PoolConfig.tsx:72
 msgid "Pool"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1277,7 +1277,7 @@ msgstr "풀 퍼블릭 키"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "풀 퍼즐 해시<<<<<<< Updated upstream"
+msgstr "풀 퍼즐 해시"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1297,11 +1297,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "풀 보상량<<<<<<< Updated upstream"
+msgstr "풀 보상량"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr "=======>>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1443,7 +1443,7 @@ msgstr "백업에서 컬러 코인 및 기타 스마트 지갑에 대한 메타 
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "안전하게 건너 뛰기<<<<<<< Updated upstream"
+msgstr "안전하게 건너 뛰기"
 
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
@@ -1495,15 +1495,15 @@ msgstr "지갑 종류 선택"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "플롯이 최종 저장될 폴더를 지정하십시오. 용량이 크고 느린 하드디스크를 추천합니다 (예시: 외장하드).<<<<<<< Updated upstream"
+msgstr "플롯이 최종 저장될 폴더를 지정하십시오. 용량이 크고 느린 하드디스크를 추천합니다 (예시: 외장하드)."
 
-#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
-#~ msgstr "플롯이 임시 저장될 폴더를 지정하십시오. 빠른 SSD를 추천합니다.>>>>>>> Stashed changes"
+#~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "플롯 생성에 필요한 임시 공간 폴더를 지정하십시오. 속도가 빠른 드라이브를 권장합니다.======="
+msgstr "플롯 생성에 필요한 임시 공간 폴더를 지정하십시오. 속도가 빠른 드라이브를 권장합니다."
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1906,7 +1906,7 @@ msgstr "VDF 서브 슬롯 반복"
 
 #: src/electron/main.tsx:296
 msgid "View"
-msgstr "보기<<<<<<< Updated upstream"
+msgstr "보기"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:73
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:52
@@ -1967,7 +1967,7 @@ msgstr "동기화 대기 중"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr "<<<<<<< Updated upstream"
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
@@ -2066,11 +2066,7 @@ msgstr "[오류 13] 권한이 거부 되었습니다. 필요한 권한없이 파
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[오류 22] 파일을 찾을 수 없습니다. config.yaml의 플롯 폴더 중 하나에 문제가 있을 가능성이 높습니다.<<<<<<< Updated upstream======="
-
-#: src/components/pool/PoolConfig.tsx:82
-#~ msgid "api_key"
-#~ msgstr ">>>>>>> Stashed changes"
+msgstr "[오류 22] 파일을 찾을 수 없습니다. config.yaml의 플롯 폴더 중 하나에 문제가 있을 가능성이 높습니다."
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2084,11 +2080,11 @@ msgstr "높이:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "동기화 되지 않음<<<<<<< Updated upstream======="
+msgstr "동기화 되지 않음"
 
 #: src/components/pool/PoolConfig.tsx:90
 msgid "pool_key"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2123,7 +2119,7 @@ msgstr "{currencyCode} 채굴된 총 Chia"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} 사용자 거래 수수료<<<<<<< Updated upstream======="
+msgstr "{currencyCode} 사용자 거래 수수료"
 
 #: src/components/pool/PoolConfig.tsx:96
 msgid "保存并启用"
@@ -2136,15 +2132,3 @@ msgstr ""
 #: src/components/pool/PoolConfig.tsx:85
 msgid "矿机名称"
 msgstr ""
-
-#: src/components/dashboard/DashboardSideBar.tsx:61
-#~ msgid "矿池"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:29
-#~ msgid "矿池名称"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:100
-#~ msgid "重新加载"
-#~ msgstr ">>>>>>> Stashed changes"

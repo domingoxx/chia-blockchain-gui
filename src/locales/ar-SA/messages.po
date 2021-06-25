@@ -116,7 +116,7 @@ msgstr "المبلغ ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "مبلغ العملات الأولية<<<<<<< Updated upstream"
+msgstr "مبلغ العملات الأولية"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -284,7 +284,7 @@ msgstr "إختر عدد القطع"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "إختر حجم القطعة<<<<<<< Updated upstream======="
+msgstr "إختر حجم القطعة"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
@@ -410,7 +410,7 @@ msgstr "إنشاء محفظة من النوع DID"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "إنشاء عرض<<<<<<< Updated upstream"
+msgstr "إنشاء عرض"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "التاريخ"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "تأخير<<<<<<< Updated upstream"
+msgstr "تأخير"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "تأخير<<<<<<< Updated upstream"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "حذف<<<<<<< Updated upstream"
+msgstr "حذف"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,7 +632,7 @@ msgstr "إستبعاد الملف النهائي"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "فشل في الفتح (قطع غير صالحة)<<<<<<< Updated upstream"
+msgstr "فشل في الفتح (قطع غير صالحة)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
@@ -646,11 +646,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "عناوين المزارع المشفرة<<<<<<< Updated upstream"
+msgstr "عناوين المزارع المشفرة"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
-msgstr "عنوان مكافأة المزارع>>>>>>> Stashed changes"
+msgstr "عنوان مكافأة المزارع"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:131
 msgid "Farmer Reward Address is not properly formatted."
@@ -662,7 +662,7 @@ msgstr ""
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr "======="
+msgstr ""
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "المزرعة غير متصلة"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "المزارع لا يعمل<<<<<<< Updated upstream"
+msgstr "المزارع لا يعمل"
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr "=======>>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,7 +753,7 @@ msgstr "تابع على تويتر"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "الأسئلة المتكررة<<<<<<< Updated upstream"
+msgstr "الأسئلة المتكررة"
 
 #: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
@@ -874,7 +874,7 @@ msgstr "فترة"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "K-Size<<<<<<< Updated upstream"
+msgstr "K-Size"
 
 #: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
@@ -951,7 +951,7 @@ msgstr "تسجيل الدخول"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "إدارة جوائز الزراعة<<<<<<< Updated upstream"
+msgstr "إدارة جوائز الزراعة"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "لا توجد بلوكات مزروعة بعد"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "لا توجد معاملات سابقة<<<<<<< Updated upstream"
+msgstr "لا توجد معاملات سابقة"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,7 +1231,7 @@ msgstr "الكتابة بالتوازي"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "رسم مكرر من {0}<<<<<<< Updated upstream"
+msgstr "رسم مكرر من {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
@@ -1259,12 +1259,12 @@ msgstr "التآمر مع تمكين حقل البت لديه حوالي 30٪ أ
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr "<<<<<<< Updated upstream======="
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/pool/PoolConfig.tsx:72
 msgid "Pool"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1277,7 +1277,7 @@ msgstr "المفتاح العام للتجمع"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "تجمع لغز تجزئة<<<<<<< Updated upstream"
+msgstr "تجمع لغز تجزئة"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1297,11 +1297,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "مبلغ مكافأة المجمع<<<<<<< Updated upstream"
+msgstr "مبلغ مكافأة المجمع"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr "=======>>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1443,7 +1443,7 @@ msgstr "استعادة بيانات التعريف للعملات المعدني
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "التخطي الآمن<<<<<<< Updated upstream"
+msgstr "التخطي الآمن"
 
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
@@ -1495,15 +1495,15 @@ msgstr "أختر نوع المحفظة"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "حدد الوجهة النهائية للمجلد حيث تريد تخزين القطعة. ننصحك باستخدام قرص صلب بمساحة كبيرة (مثل HDD).<<<<<<< Updated upstream"
+msgstr "حدد الوجهة النهائية للمجلد حيث تريد تخزين القطعة. ننصحك باستخدام قرص صلب بمساحة كبيرة (مثل HDD)."
 
-#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
-#~ msgstr "حدد مجلد التخزين المؤقت الذي يتم فية عمليات إنشاء القطعة. ننصحك باستخدام قرص SSD سريع.>>>>>>> Stashed changes"
+#~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "حدد الوجهة النهائية للمجلد حيث تريد تخزين القطعة. ننصحك باستخدام قرص صلب بمساحة كبيرة (مثل HDD).======="
+msgstr "حدد الوجهة النهائية للمجلد حيث تريد تخزين القطعة. ننصحك باستخدام قرص صلب بمساحة كبيرة (مثل HDD)."
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1967,7 +1967,7 @@ msgstr "في انتظار المزامنة"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr "<<<<<<< Updated upstream"
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
@@ -2066,11 +2066,7 @@ msgstr "[خطأ 13] تم رفض الإذن. أنت تحاول الوصول إل�
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[خطأ 22] لم يتم العثور على الملف. على الأرجح أن أحد مجلدات المخطط في config.yaml لديه مشكلة.<<<<<<< Updated upstream======="
-
-#: src/components/pool/PoolConfig.tsx:82
-#~ msgid "api_key"
-#~ msgstr ">>>>>>> Stashed changes"
+msgstr "[خطأ 22] لم يتم العثور على الملف. على الأرجح أن أحد مجلدات المخطط في config.yaml لديه مشكلة."
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2084,11 +2080,11 @@ msgstr "ارتفاع:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "لم تتم المزامنة<<<<<<< Updated upstream======="
+msgstr "لم تتم المزامنة"
 
 #: src/components/pool/PoolConfig.tsx:90
 msgid "pool_key"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2123,7 +2119,7 @@ msgstr "{currencyCode} مجموع مزارع شيا"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} رسوم المعاملات للمستخدم<<<<<<< Updated upstream======="
+msgstr "{currencyCode} رسوم المعاملات للمستخدم"
 
 #: src/components/pool/PoolConfig.tsx:96
 msgid "保存并启用"
@@ -2136,15 +2132,3 @@ msgstr ""
 #: src/components/pool/PoolConfig.tsx:85
 msgid "矿机名称"
 msgstr ""
-
-#: src/components/dashboard/DashboardSideBar.tsx:61
-#~ msgid "矿池"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:29
-#~ msgid "矿池名称"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:100
-#~ msgid "重新加载"
-#~ msgstr ">>>>>>> Stashed changes"

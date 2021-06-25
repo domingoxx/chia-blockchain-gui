@@ -116,7 +116,7 @@ msgstr "Кількість ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "Початкова кількість монет<<<<<<< Updated upstream"
+msgstr "Початкова кількість монет"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -284,7 +284,7 @@ msgstr "Виберіть кількість ділянок"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "Виберіть розмір ділянки<<<<<<< Updated upstream======="
+msgstr "Виберіть розмір ділянки"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
@@ -410,7 +410,7 @@ msgstr "Створити DID гаманець"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "Створити пропозицію<<<<<<< Updated upstream"
+msgstr "Створити пропозицію"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "Дата"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "Затримка<<<<<<< Updated upstream"
+msgstr "Затримка"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "Затримка<<<<<<< Updated upstream"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "Видалити<<<<<<< Updated upstream"
+msgstr "Видалити"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,7 +632,7 @@ msgstr "Виключити кінцеву теку"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "Не вдалося відкрити (недійсні ділянки)<<<<<<< Updated upstream"
+msgstr "Не вдалося відкрити (недійсні ділянки)"
 
 #: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
@@ -646,11 +646,11 @@ msgstr "Відкритий ключ фермера"
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "Хеш головоломки фермера<<<<<<< Updated upstream"
+msgstr "Хеш головоломки фермера"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
-msgstr "Адреса винагороди фермера>>>>>>> Stashed changes"
+msgstr "Адреса винагороди фермера"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:131
 msgid "Farmer Reward Address is not properly formatted."
@@ -662,7 +662,7 @@ msgstr ""
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr "======="
+msgstr ""
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "Фермер не підключений"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "Фермер не запущений<<<<<<< Updated upstream"
+msgstr "Фермер не запущений"
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr "=======>>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,7 +753,7 @@ msgstr "Слідкувати у Twitter"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "Найчастіші питання<<<<<<< Updated upstream"
+msgstr "Найчастіші питання"
 
 #: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
@@ -874,7 +874,7 @@ msgstr "Інтервал"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "K-розмір<<<<<<< Updated upstream"
+msgstr "K-розмір"
 
 #: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
@@ -951,7 +951,7 @@ msgstr "Здійснюється вхід"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "Управління винагородами за фермерство<<<<<<< Updated upstream"
+msgstr "Управління винагородами за фермерство"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "У вас ще немає оброблених блоків"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "Немає попередніх транзакцій<<<<<<< Updated upstream"
+msgstr "Немає попередніх транзакцій"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,7 +1231,7 @@ msgstr "Засіювати ділянки паралельно"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "Ділянка є дублікатом {0}<<<<<<< Updated upstream"
+msgstr "Ділянка є дублікатом {0}"
 
 #: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
@@ -1259,12 +1259,12 @@ msgstr "Засіювання із увімкненим бітовим полем
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr "<<<<<<< Updated upstream======="
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:61
 #: src/components/pool/PoolConfig.tsx:72
 msgid "Pool"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1277,7 +1277,7 @@ msgstr "Публічний ключ пулу"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "Хеш головоломки пула<<<<<<< Updated upstream"
+msgstr "Хеш головоломки пула"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1297,11 +1297,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "Кількість винагороди пула<<<<<<< Updated upstream"
+msgstr "Кількість винагороди пула"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr "=======>>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1443,7 +1443,7 @@ msgstr "Відновити метадані для кольорових моне
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "Можна пропустити<<<<<<< Updated upstream"
+msgstr "Можна пропустити"
 
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
@@ -1495,15 +1495,15 @@ msgstr "Оберіть тип гаманця"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "Виберіть кінцеве розташування теки, де ви бажаєте зберегти ділянку. Ми рекомендуємо використовувати великий повільний жорсткий диск (наприклад, зовнішній HDD).<<<<<<< Updated upstream"
+msgstr "Виберіть кінцеве розташування теки, де ви бажаєте зберегти ділянку. Ми рекомендуємо використовувати великий повільний жорсткий диск (наприклад, зовнішній HDD)."
 
-#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
-#~ msgstr "Виберіть розташування тимчасової теки, де ви хочете зберегти ділянку. Ми рекомендуємо використовувати швидкий SSD.>>>>>>> Stashed changes"
+#~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "Виберіть розташування тимчасової теки, де ви хочете зберегти ділянку. Ми рекомендуємо використовувати швидкий диск.======="
+msgstr "Виберіть розташування тимчасової теки, де ви хочете зберегти ділянку. Ми рекомендуємо використовувати швидкий диск."
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1906,7 +1906,7 @@ msgstr "Ітерації підслотів VDF"
 
 #: src/electron/main.tsx:296
 msgid "View"
-msgstr "Вигляд<<<<<<< Updated upstream"
+msgstr "Вигляд"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:73
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:52
@@ -1967,7 +1967,7 @@ msgstr "Зачекайте на синхронізацію"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr "<<<<<<< Updated upstream"
+#~ msgstr ""
 
 #: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
@@ -2066,11 +2066,7 @@ msgstr "[Error 13] У доступі відмовлено. Ви намагаєт
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[Помилка 22] Файл не знайдено. Швидше за все, одна з тек для ділянок, що вказана у вашому config.yaml має проблему.<<<<<<< Updated upstream======="
-
-#: src/components/pool/PoolConfig.tsx:82
-#~ msgid "api_key"
-#~ msgstr ">>>>>>> Stashed changes"
+msgstr "[Помилка 22] Файл не знайдено. Швидше за все, одна з тек для ділянок, що вказана у вашому config.yaml має проблему."
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2084,11 +2080,11 @@ msgstr "висота:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "не синхронізовано<<<<<<< Updated upstream======="
+msgstr "не синхронізовано"
 
 #: src/components/pool/PoolConfig.tsx:90
 msgid "pool_key"
-msgstr ">>>>>>> Stashed changes"
+msgstr ""
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2123,7 +2119,7 @@ msgstr "{currencyCode} Всього Chia створено"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} Комісії за транзакціями користувачів<<<<<<< Updated upstream======="
+msgstr "{currencyCode} Комісії за транзакціями користувачів"
 
 #: src/components/pool/PoolConfig.tsx:96
 msgid "保存并启用"
@@ -2136,15 +2132,3 @@ msgstr ""
 #: src/components/pool/PoolConfig.tsx:85
 msgid "矿机名称"
 msgstr ""
-
-#: src/components/dashboard/DashboardSideBar.tsx:61
-#~ msgid "矿池"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:29
-#~ msgid "矿池名称"
-#~ msgstr ""
-
-#: src/components/pool/PoolConfig.tsx:100
-#~ msgid "重新加载"
-#~ msgstr ">>>>>>> Stashed changes"
