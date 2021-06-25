@@ -116,7 +116,7 @@ msgstr "Количина ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "Вредност иницијалног новчића"
+msgstr "Вредност иницијалног новчића<<<<<<< Updated upstream"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -239,7 +239,6 @@ msgid "Can be backed up to mnemonic seed"
 msgstr "Може се сачувати у мнемоничко семе"
 
 #: src/components/core/components/ConfirmDialog/ConfirmDialog.tsx:66
-#: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/fullNode/FullNodeAddConnection.tsx:98
 #: src/components/trading/CreateOffer.jsx:153
 #: src/components/trading/TradingOverview.jsx:410
@@ -285,8 +284,9 @@ msgstr "Изабери број плотова"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "Изабери величину плота"
+msgstr "Изабери величину плота<<<<<<< Updated upstream======="
 
+#: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:76
 msgid "Close"
@@ -410,7 +410,7 @@ msgstr "Креирај DID новчаник"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "Креирај понуду"
+msgstr "Креирај понуду<<<<<<< Updated upstream"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "Датум"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "Одлагање"
+msgstr "Одлагање<<<<<<< Updated upstream"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "Одлагање"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "Обриши"
+msgstr "Обриши<<<<<<< Updated upstream"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,9 +632,9 @@ msgstr "Изузмите коначни директоријум"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "Отварање није успело (неважећи плотови)"
+msgstr "Отварање није успело (неважећи плотови)<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:54
+#: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
 #: src/components/wallet/standard/WalletStandard.tsx:515
 msgid "Farm"
@@ -646,11 +646,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "Хеш слагалице фармера"
+msgstr "Хеш слагалице фармера<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
-msgstr "Адреса за Награду Фармера"
+msgstr "Адреса за Награду Фармера>>>>>>> Stashed changes"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:131
 msgid "Farmer Reward Address is not properly formatted."
@@ -662,7 +662,7 @@ msgstr ""
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr ""
+msgstr "======="
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "Фармер није повезан"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "Фармер није покренут"
+msgstr "Фармер није покренут<<<<<<< Updated upstream"
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr ""
+msgstr "=======>>>>>>> Stashed changes"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,9 +753,9 @@ msgstr "Пратите нас на Твитеру"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "Често Постављана Питања"
+msgstr "Често Постављана Питања<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:38
+#: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
 msgid "Full Node"
 msgstr "Пун Чвор"
@@ -874,9 +874,9 @@ msgstr "Интервал"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "К-величина"
+msgstr "К-величина<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:60
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Кључеви"
 
@@ -951,7 +951,7 @@ msgstr "Пријављивање"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "Управљај наградама"
+msgstr "Управљај наградама<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "Још нема обрађених блокова"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "Нема претходних трансакција"
+msgstr "Нема претходних трансакција<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,9 +1231,9 @@ msgstr "Плотуј паралелно"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "Плот је дупликат {0}"
+msgstr "Плот је дупликат {0}<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:49
+#: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
 msgstr "Плотови"
 
@@ -1259,7 +1259,12 @@ msgstr "Плотовање са омогућеним бит пољем има о
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr ""
+#~ msgstr "<<<<<<< Updated upstream======="
+
+#: src/components/dashboard/DashboardSideBar.tsx:61
+#: src/components/pool/PoolConfig.tsx:72
+msgid "Pool"
+msgstr ">>>>>>> Stashed changes"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1272,7 +1277,7 @@ msgstr "Јавни кључ пула"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "Хеш слагалица пула"
+msgstr "Хеш слагалица пула<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1292,11 +1297,11 @@ msgstr ""
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "Износ награде за пул"
+msgstr "Износ награде за пул<<<<<<< Updated upstream"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr ""
+msgstr "=======>>>>>>> Stashed changes"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1438,9 +1443,8 @@ msgstr "Врати метаподатке за обојене новчиће и 
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "Безбедно је прескочити"
+msgstr "Безбедно је прескочити<<<<<<< Updated upstream"
 
-#: src/components/farm/FarmManageFarmingRewards.tsx:181
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
 msgstr "Сачувај"
@@ -1491,15 +1495,23 @@ msgstr "Изабери тип новчаника"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "Изабери локацију фолдера где ће готов плот бити сачуван. Препоручујемо да користиш велики спори хард-диск (нпр. екстерни диск)."
+msgstr "Изабери локацију фолдера где ће готов плот бити сачуван. Препоручујемо да користиш велики спори хард-диск (нпр. екстерни диск).<<<<<<< Updated upstream"
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 #~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD.>>>>>>> Stashed changes"
+#~ msgstr "Изабери локацију фолдера у ком желиш да се плот чува током обраде. Препоручујемо да користиш брзе SSD дискове."
+
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "Изабери локацију фолдера у ком желиш да се плот чува током обраде. Препоручујемо да користиш брзе SSD дискове."
+msgstr ""
+
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
+#~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive.======="
+#~ msgstr ""
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1902,7 +1914,7 @@ msgstr "Подслотови VDF понављања"
 
 #: src/electron/main.tsx:296
 msgid "View"
-msgstr "Преглед"
+msgstr "Преглед<<<<<<< Updated upstream"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:73
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:52
@@ -1963,9 +1975,9 @@ msgstr "Сачекај синхронизацију"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr ""
+#~ msgstr "<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:44
+#: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
 msgid "Wallets"
 msgstr "Новчаници"
@@ -2062,7 +2074,11 @@ msgstr "[Грешка 13] Дозвола одбијена. Покушаваш д
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[Грешка 22] Фајл није пронађен. Највероватније је проблем у једном од фолдера са плотовима у твом config.yaml фајлу."
+msgstr "[Грешка 22] Фајл није пронађен. Највероватније је проблем у једном од фолдера са плотовима у твом config.yaml фајлу.<<<<<<< Updated upstream======="
+
+#: src/components/pool/PoolConfig.tsx:82
+#~ msgid "api_key"
+#~ msgstr ">>>>>>> Stashed changes"
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2076,7 +2092,11 @@ msgstr "величина:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "није синхронизовано"
+msgstr "није синхронизовано<<<<<<< Updated upstream======="
+
+#: src/components/pool/PoolConfig.tsx:90
+msgid "pool_key"
+msgstr ">>>>>>> Stashed changes"
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2111,5 +2131,28 @@ msgstr "{currencyCode} укупно Chia са фарме"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} накнаде за трансакције корисника"
+msgstr "{currencyCode} накнаде за трансакције корисника<<<<<<< Updated upstream======="
 
+#: src/components/pool/PoolConfig.tsx:96
+msgid "保存并启用"
+msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:101
+msgid "刷新状态"
+msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:85
+msgid "矿机名称"
+msgstr ""
+
+#: src/components/dashboard/DashboardSideBar.tsx:61
+#~ msgid "矿池"
+#~ msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:29
+#~ msgid "矿池名称"
+#~ msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:100
+#~ msgid "重新加载"
+#~ msgstr ">>>>>>> Stashed changes"

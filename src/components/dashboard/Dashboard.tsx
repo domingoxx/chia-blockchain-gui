@@ -19,6 +19,7 @@ import DashboardSideBar from './DashboardSideBar';
 import { DashboardTitleTarget } from './DashboardTitle';
 import TradeManager from '../trading/TradeManager';
 import BackupCreate from '../backup/BackupCreate';
+import PoolConfig from '../pool/PoolConfig';
 
 const StyledRoot = styled(Flex)`
   height: 100%;
@@ -49,7 +50,7 @@ const StyledBody = styled(Box)`
 `;
 
 const StyledBrandWrapper = styled(Flex)`
-  height: 64px;
+  height: 85px;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
@@ -97,6 +98,9 @@ export default function Dashboard() {
           </Route>
           <Route path={`${path}/trade`}>
             <TradeManager />
+          </Route>
+          <Route path={`${path}/pool`}>
+            <PoolConfig />
           </Route>
         </Switch>
       </StyledBody>

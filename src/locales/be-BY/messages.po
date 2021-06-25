@@ -239,7 +239,6 @@ msgid "Can be backed up to mnemonic seed"
 msgstr "Рэзервовая копія можна быць зроблена ў мнеманічнае зерне"
 
 #: src/components/core/components/ConfirmDialog/ConfirmDialog.tsx:66
-#: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/fullNode/FullNodeAddConnection.tsx:98
 #: src/components/trading/CreateOffer.jsx:153
 #: src/components/trading/TradingOverview.jsx:410
@@ -287,6 +286,7 @@ msgstr "Выберыце колькасць дзялянак"
 msgid "Choose Plot Size"
 msgstr "Выберыце памер дзялянкі"
 
+#: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:76
 msgid "Close"
@@ -634,7 +634,7 @@ msgstr "Выключыць канцавы каталог"
 msgid "Failed to open (invalid plots)"
 msgstr "Не ўдалося адкрыць (дзялянкі з памылкамі)"
 
-#: src/components/dashboard/DashboardSideBar.tsx:54
+#: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
 #: src/components/wallet/standard/WalletStandard.tsx:515
 msgid "Farm"
@@ -755,7 +755,7 @@ msgstr "Падпісацца ў Twitter"
 msgid "Frequently Asked Questions"
 msgstr "Частыя пытанні"
 
-#: src/components/dashboard/DashboardSideBar.tsx:38
+#: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
 msgid "Full Node"
 msgstr "Поўны вузел"
@@ -876,7 +876,7 @@ msgstr "Інтэрвал"
 msgid "K-Size"
 msgstr "K-памер"
 
-#: src/components/dashboard/DashboardSideBar.tsx:60
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Ключы"
 
@@ -1233,7 +1233,7 @@ msgstr "Засяваць паралельна"
 msgid "Plot is duplicate of {0}"
 msgstr "Дзялянка з'яўляецца дублікатам {0}"
 
-#: src/components/dashboard/DashboardSideBar.tsx:49
+#: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
 msgstr "Дзялянкі"
 
@@ -1260,6 +1260,11 @@ msgstr "Засяванне дзялянак з выкарыстаннем біт
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
 #~ msgstr ""
+
+#: src/components/dashboard/DashboardSideBar.tsx:61
+#: src/components/pool/PoolConfig.tsx:72
+msgid "Pool"
+msgstr ""
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1440,7 +1445,6 @@ msgstr "Аднавіць метаданыя для каляровых манет
 msgid "Safe To Skip"
 msgstr "Можна прапусціць"
 
-#: src/components/farm/FarmManageFarmingRewards.tsx:181
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
 msgstr "Захаваць"
@@ -1965,7 +1969,7 @@ msgstr "Чаканне сінхранізацыі"
 #~ msgid "WalletStatusCard.syncing"
 #~ msgstr ""
 
-#: src/components/dashboard/DashboardSideBar.tsx:44
+#: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
 msgid "Wallets"
 msgstr "Кашалькі"
@@ -2078,6 +2082,10 @@ msgstr "вышыня:"
 msgid "not synced"
 msgstr "не сінхр."
 
+#: src/components/pool/PoolConfig.tsx:90
+msgid "pool_key"
+msgstr ""
+
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
 msgid "status:"
@@ -2113,3 +2121,14 @@ msgstr "{currencyCode} Усяго Chia урадзілася"
 msgid "{currencyCode} User Transaction Fees"
 msgstr "{currencyCode} Камісійныя за трансакцыі карыстальнікаў"
 
+#: src/components/pool/PoolConfig.tsx:96
+msgid "保存并启用"
+msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:101
+msgid "刷新状态"
+msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:85
+msgid "矿机名称"
+msgstr ""

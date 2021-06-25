@@ -116,7 +116,7 @@ msgstr "Belopp ({cc_unit})"
 
 #: src/components/wallet/create/createRLAdmin.jsx:259
 msgid "Amount For Initial Coin"
-msgstr "Belopp för ursprungligt mynt"
+msgstr "Belopp för ursprungligt mynt<<<<<<< Updated upstream"
 
 #: src/components/plot/PlotAction.tsx:36
 #: src/components/plot/queue/PlotQueueActions.tsx:43
@@ -239,7 +239,6 @@ msgid "Can be backed up to mnemonic seed"
 msgstr "Kan säkerhetskopieras till minnesfras"
 
 #: src/components/core/components/ConfirmDialog/ConfirmDialog.tsx:66
-#: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/fullNode/FullNodeAddConnection.tsx:98
 #: src/components/trading/CreateOffer.jsx:153
 #: src/components/trading/TradingOverview.jsx:410
@@ -285,8 +284,9 @@ msgstr "Välj antal plottar"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:59
 msgid "Choose Plot Size"
-msgstr "Välj plottstorlek"
+msgstr "Välj plottstorlek<<<<<<< Updated upstream======="
 
+#: src/components/farm/FarmManageFarmingRewards.tsx:178
 #: src/components/plot/PlotAddDirectoryDialog.tsx:102
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:76
 msgid "Close"
@@ -410,7 +410,7 @@ msgstr "Skapa DID-plånbok"
 
 #: src/components/trading/TradeManager.tsx:49
 msgid "Create Offer"
-msgstr "Skapa erbjudande"
+msgstr "Skapa erbjudande<<<<<<< Updated upstream"
 
 #: src/components/plot/add/PlotAdd.tsx:92
 msgid "Create Plot"
@@ -502,7 +502,7 @@ msgstr "Datum"
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:90
 msgid "Delay"
-msgstr "Fördröjning"
+msgstr "Fördröjning<<<<<<< Updated upstream"
 
 #: src/components/plot/PlotAction.tsx:34
 #: src/components/plot/PlotAction.tsx:58
@@ -511,7 +511,7 @@ msgstr "Fördröjning"
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
 msgid "Delete"
-msgstr "Ta bort"
+msgstr "Ta bort<<<<<<< Updated upstream"
 
 #: src/components/plot/PlotAction.tsx:33
 #: src/components/plot/queue/PlotQueueActions.tsx:39
@@ -632,9 +632,9 @@ msgstr "Uteslut slutlig mapp"
 
 #: src/components/plot/PlotsFailed.tsx:35
 msgid "Failed to open (invalid plots)"
-msgstr "Det gick inte att öppna (ogiltiga plottar)"
+msgstr "Det gick inte att öppna (ogiltiga plottar)<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:54
+#: src/components/dashboard/DashboardSideBar.tsx:56
 #: src/components/wallet/coloured/WalletColoured.tsx:622
 #: src/components/wallet/standard/WalletStandard.tsx:515
 msgid "Farm"
@@ -646,11 +646,11 @@ msgstr "Publik nyckel för odlare"
 
 #: src/components/block/Block.jsx:252
 msgid "Farmer Puzzle Hash"
-msgstr "Odlare-pusselhash"
+msgstr "Odlare-pusselhash<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:159
 msgid "Farmer Reward Address"
-msgstr "Adress för odlarbelöning"
+msgstr "Adress för odlarbelöning>>>>>>> Stashed changes"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:131
 msgid "Farmer Reward Address is not properly formatted."
@@ -662,7 +662,7 @@ msgstr "Den här dressen är inte korrekt formaterad."
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:124
 msgid "Farmer Reward Address must not be empty."
-msgstr "Adress får inte vara tom."
+msgstr "Adress får inte vara tom.======="
 
 #: src/components/farm/card/FarmCardStatus.tsx:44
 #: src/components/plot/PlotStatus.tsx:36
@@ -672,11 +672,11 @@ msgstr "Odlaren är inte ansluten"
 #: src/components/farm/card/FarmCardStatus.tsx:58
 #: src/components/plot/PlotStatus.tsx:37
 msgid "Farmer is not running"
-msgstr "Odlaren körs inte"
+msgstr "Odlaren körs inte<<<<<<< Updated upstream"
 
 #: src/middleware/middleware_api.jsx:275
 msgid "Farmer public key:"
-msgstr "Publik nyckel för odlare:"
+msgstr "Publik nyckel för odlare:=======>>>>>>> Stashed changes"
 
 #: src/components/farm/overview/FarmOverviewHero.tsx:35
 msgid "Farmers earn block rewards and transaction fees by committing spare space to the network to help secure transactions. This is where your farm will be once you add a plot. <0>Learn more</0>"
@@ -753,9 +753,9 @@ msgstr "Följ på Twitter"
 
 #: src/electron/main.tsx:367
 msgid "Frequently Asked Questions"
-msgstr "Vanliga frågor"
+msgstr "Vanliga frågor<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:38
+#: src/components/dashboard/DashboardSideBar.tsx:40
 #: src/components/fullNode/FullNode.jsx:313
 msgid "Full Node"
 msgstr "Fullständig nod"
@@ -874,9 +874,9 @@ msgstr "Intervall"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:56
 msgid "K-Size"
-msgstr "K-storlek"
+msgstr "K-storlek<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:60
+#: src/components/dashboard/DashboardSideBar.tsx:67
 msgid "Keys"
 msgstr "Nycklar"
 
@@ -951,7 +951,7 @@ msgstr "Loggar in"
 
 #: src/components/farm/overview/FarmOverview.tsx:44
 msgid "Manage Farming Rewards"
-msgstr "Hantera odlingsbelöningar"
+msgstr "Hantera odlingsbelöningar<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:109
 msgid "Manage Your Farming Rewards Target Addresses"
@@ -1019,7 +1019,7 @@ msgstr "Inga block har odlats ännu"
 
 #: src/components/wallet/WalletHistory.tsx:100
 msgid "No previous transactions"
-msgstr "Inga tidigare transaktioner"
+msgstr "Inga tidigare transaktioner<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:152
 msgid "No private keys for one or both addresses. Safe only if you are sending rewards to another wallet."
@@ -1231,9 +1231,9 @@ msgstr "Plotta parallellt"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:39
 msgid "Plot is duplicate of {0}"
-msgstr "Plotten är en dubblett av {0}"
+msgstr "Plotten är en dubblett av {0}<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:49
+#: src/components/dashboard/DashboardSideBar.tsx:51
 msgid "Plots"
 msgstr "Plottar"
 
@@ -1259,7 +1259,12 @@ msgstr "Plottning med bitfield aktiverat ger ungefär 30 % färre skrivningar o
 
 #: src/components/plot/add/PlotAddNumberOfPlots.tsx:114
 #~ msgid "Plotting with bitfield enabled has about 30% less overall writes and is now almost always faster. You may see reduced memory requirements with bitfield plotting disabled. If your CPU design is from before 2010 you may have to disbale bitfield plotting."
-#~ msgstr ""
+#~ msgstr "<<<<<<< Updated upstream======="
+
+#: src/components/dashboard/DashboardSideBar.tsx:61
+#: src/components/pool/PoolConfig.tsx:72
+msgid "Pool"
+msgstr ">>>>>>> Stashed changes"
 
 #: src/components/plot/overview/PlotOverviewPlots.tsx:74
 msgid "Pool Key"
@@ -1272,7 +1277,7 @@ msgstr "Publik nyckel för pool"
 
 #: src/components/block/Block.jsx:260
 msgid "Pool Puzzle Hash"
-msgstr "Pool-pusselhash"
+msgstr "Pool-pusselhash<<<<<<< Updated upstream"
 
 #: src/components/farm/FarmManageFarmingRewards.tsx:166
 msgid "Pool Reward Address"
@@ -1292,11 +1297,11 @@ msgstr "Adress får inte vara tom."
 
 #: src/components/block/Block.jsx:286
 msgid "Pool Reward Amount"
-msgstr "Belopp för pool-belöning"
+msgstr "Belopp för pool-belöning<<<<<<< Updated upstream"
 
 #: src/middleware/middleware_api.jsx:283
 msgid "Pool public key:"
-msgstr "Publik nyckel för pool:"
+msgstr "Publik nyckel för pool:=======>>>>>>> Stashed changes"
 
 #: src/components/farm/FarmFullNodeConnections.tsx:42
 #: src/components/farm/FarmYourHarvesterNetwork.tsx:46
@@ -1438,9 +1443,8 @@ msgstr "Återställ metadata för färgade mynt och andra smarta plånböcker fr
 
 #: src/components/backup/BackupRestore.tsx:187
 msgid "Safe To Skip"
-msgstr "Kan hoppas över"
+msgstr "Kan hoppas över<<<<<<< Updated upstream"
 
-#: src/components/farm/FarmManageFarmingRewards.tsx:181
 #: src/components/trading/CreateOffer.jsx:160
 msgid "Save"
 msgstr "Spara"
@@ -1491,15 +1495,15 @@ msgstr "Välj plånbokstyp"
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:30
 msgid "Select the final destination for the folder where you would like the plot to be stored. We recommend you use a large slow hard drive (like external HDD)."
-msgstr "Välj den slutliga mapp där du vill att plotten ska sparas. Vi rekommenderar att du använder en stor, långsam hårddisk (t. ex. en extern HDD)."
+msgstr "Välj den slutliga mapp där du vill att plotten ska sparas. Vi rekommenderar att du använder en stor, långsam hårddisk (t. ex. en extern HDD).<<<<<<< Updated upstream"
 
-#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:41
+#: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 #~ msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
-#~ msgstr "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast SSD."
+#~ msgstr "Välj den tillfälliga mapp där du vill att plotten ska sparas. Vi rekommenderar att du använder en snabb SSD.>>>>>>> Stashed changes"
 
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:40
 msgid "Select the temporary destination for the folder where you would like the plot to be stored. We recommend you use a fast drive."
-msgstr "Välj den tillfälliga mapp där du vill att plotten ska sparas under uppbyggnadsfasen. Vi rekommenderar att du använder en snabb SSD."
+msgstr "Välj den tillfälliga mapp där du vill att plotten ska sparas under uppbyggnadsfasen. Vi rekommenderar att du använder en snabb SSD.======="
 
 #: src/components/plot/add/PlotAddSelectFinalDirectory.tsx:63
 #: src/components/plot/add/PlotAddSelectTemporaryDirectory.tsx:74
@@ -1902,7 +1906,7 @@ msgstr "VDF-underslot-iterationer"
 
 #: src/electron/main.tsx:296
 msgid "View"
-msgstr "Visa"
+msgstr "Visa<<<<<<< Updated upstream"
 
 #: src/components/plot/queue/PlotQueueActions.tsx:73
 #: src/components/plot/queue/PlotQueueLogDialog.tsx:52
@@ -1963,9 +1967,9 @@ msgstr "Väntar på synkronisering"
 
 #: src/components/wallet/Wallets.tsx:103
 #~ msgid "WalletStatusCard.syncing"
-#~ msgstr ""
+#~ msgstr "<<<<<<< Updated upstream"
 
-#: src/components/dashboard/DashboardSideBar.tsx:44
+#: src/components/dashboard/DashboardSideBar.tsx:46
 #: src/components/wallet/Wallets.tsx:175
 msgid "Wallets"
 msgstr "Plånböcker"
@@ -2022,7 +2026,8 @@ msgstr "Ja"
 
 #: src/components/plot/add/PlotAddChooseSize.tsx:63
 msgid "You do not need to be synched or connected to plot. Temporary files are created during the plotting process which exceed the size of the final plot files. Make sure you have enough space. <0>Learn more</0>"
-msgstr "Du behöver inte ha synkat eller vara uppkopplad för att plotta. \n"
+msgstr ""
+"Du behöver inte ha synkat eller vara uppkopplad för att plotta. \n"
 "Under plottningen skapas tillfälliga filer som är större än den färdiga plottfilen. Se till att du har tillräckligt med utrymme. <0>Läs mer</0>"
 
 #: src/components/farm/card/FarmCardExpectedTimeToWin.tsx:34
@@ -2063,7 +2068,11 @@ msgstr "[Felkod 13] Åtkomst nekan. Du saknar behörighet till en fil eller kata
 
 #: src/util/getDescriptiveError.ts:8
 msgid "[Error 22] File not found. Most likely one of the plot folders in your config.yaml has an issue."
-msgstr "[Felkod 22] Filen går inte att hitta. Troligtvis en av katalog för plottar i din config.yaml som är felaktig."
+msgstr "[Felkod 22] Filen går inte att hitta. Troligtvis en av katalog för plottar i din config.yaml som är felaktig.<<<<<<< Updated upstream======="
+
+#: src/components/pool/PoolConfig.tsx:82
+#~ msgid "api_key"
+#~ msgstr ">>>>>>> Stashed changes"
 
 #: src/components/wallet/WalletStatusCard.tsx:44
 #: src/components/wallet/Wallets.tsx:158
@@ -2077,7 +2086,11 @@ msgstr "höjd:"
 
 #: src/components/wallet/Wallets.tsx:146
 msgid "not synced"
-msgstr "ej synkad"
+msgstr "ej synkad<<<<<<< Updated upstream======="
+
+#: src/components/pool/PoolConfig.tsx:90
+msgid "pool_key"
+msgstr ">>>>>>> Stashed changes"
 
 #: src/components/wallet/WalletStatusCard.tsx:26
 #: src/components/wallet/Wallets.tsx:140
@@ -2112,5 +2125,28 @@ msgstr "{currencyCode} Totalt antal Chia som odlats"
 
 #: src/components/farm/card/FarmCardUserFees.tsx:28
 msgid "{currencyCode} User Transaction Fees"
-msgstr "{currencyCode} Transaktionsavgifter för användare"
+msgstr "{currencyCode} Transaktionsavgifter för användare<<<<<<< Updated upstream======="
 
+#: src/components/pool/PoolConfig.tsx:96
+msgid "保存并启用"
+msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:101
+msgid "刷新状态"
+msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:85
+msgid "矿机名称"
+msgstr ""
+
+#: src/components/dashboard/DashboardSideBar.tsx:61
+#~ msgid "矿池"
+#~ msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:29
+#~ msgid "矿池名称"
+#~ msgstr ""
+
+#: src/components/pool/PoolConfig.tsx:100
+#~ msgid "重新加载"
+#~ msgstr ">>>>>>> Stashed changes"

@@ -175,11 +175,11 @@ export default function FarmManageFarmingRewards(props: Props) {
         </DialogContent>
         <DialogActions>
           <Button onClick={handleClose} color="secondary">
-            <Trans>Cancel</Trans>
+            <Trans>Close</Trans>
           </Button>
-          <Button type="submit" autoFocus color="primary">
+          {/* <Button type="submit" autoFocus color="primary">
             <Trans>Save</Trans>
-          </Button>
+          </Button> */}
         </DialogActions>
       </Form>
     </Dialog>

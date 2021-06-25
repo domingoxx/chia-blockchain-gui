@@ -115,7 +115,6 @@
     "copy-webpack-plugin": "^9.0.0",
     "cross-env": "^7.0.3",
     "electron": "^11.4.7",
-    "electron-osx-sign": "github:electron/electron-osx-sign#master",
     "electron-winstaller": "^5.0.0",
     "eslint": "^7.27.0",
     "eslint-config-airbnb-typescript": "^12.3.1",
