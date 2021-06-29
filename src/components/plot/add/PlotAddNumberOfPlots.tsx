@@ -241,7 +241,7 @@ export default function PlotAddNumberOfPlots() {
               />
             </FormControl>
           </Grid>
-          <Grid xs={12} item>
+          {/* <Grid xs={12} item>
             <FormControl
               variant="filled"
               fullWidth
@@ -268,7 +268,7 @@ export default function PlotAddNumberOfPlots() {
                 label={<Trans>Pool Public Key</Trans>}
               />
             </FormControl>
-          </Grid>
+          </Grid> */}
         </Grid>
       </AdvancedOptions>
     </CardStep>
