@@ -26,6 +26,22 @@ export const getRewardTargets = (searchForPrivateKey) => {
   };
 };
 
+export const getPoolConfig = () => {
+  return async (dispatch) => {
+    const { data } = await async_api(
+      dispatch,
+      farmerMessage({
+        command: 'get_pool_config',
+        data: {
+        },
+      }),
+      false,
+    );
+
+    return data;
+  };
+}
+
 export const setRewardTargets = (farmerTarget, poolTarget) => {
   return async (dispatch) => {
     const response = await async_api(
@@ -35,6 +51,24 @@ export const setRewardTargets = (farmerTarget, poolTarget) => {
         data: {
           farmer_target: farmerTarget,
           pool_target: poolTarget,
+        },
+      }),
+      false,
+    );
+
+    return response;
+  };
+};
+
+export const setPoolConfig = (name, api_key) => {
+  return async (dispatch) => {
+    const response = await async_api(
+      dispatch,
+      farmerMessage({
+        command: 'set_pool_config',
+        data: {
+          name: name,
+          api_key: api_key,
         },
       }),
       false,
